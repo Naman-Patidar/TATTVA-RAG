@@ -27,3 +27,12 @@ Returns the most semantically aligned chunks.
 Integrates meta-llama/Meta-Llama-3-8B-Instruct through HuggingFace's InferenceClient.
 
 Generates spiritually styled answers using the top-k retrieved verses.
+
+## Inspired By
+
+Bhagavad Gita
+
+LangChain RAG systems
+
+Meta's LLaMA 3 LLM
+
