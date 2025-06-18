@@ -57,7 +57,7 @@ def search_verses(query, top_k=3):
 query = "What does Krishna say about desire?"
 top_results = search_verses(query)
 
-print("🔍 Retrieved Verses:\n")
+print("Retrieved Verses:\n")
 for i, res in enumerate(top_results, 1):
     print(f"[{i}] {res}\n")
 
